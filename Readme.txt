@@ -1,4 +1,4 @@
-This repository contains CSV file called WorldCupMatches-Summary that hold the data. The objective of the project is to:
+This repository contains CSV file called WorldCupMatches-Summary that hold the data. The objective of the project is to answer the following questions:
 
 Total number of Goals scored in the city called Montevideo
 Total number of referee assigned in Argentena
